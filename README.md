@@ -17,6 +17,3 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 4. Keep pushing your changes every day!  
 
-
-Learning fork
-learning fork first time
