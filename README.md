@@ -17,3 +17,10 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 4. Keep pushing your changes every day!  
 
+Day-1 (11/May/2026)
+Learn basic of stack and queues from striver.
+Implment stack using array and ll.
+Implment queues using array and ll.
+Implement stack using queues,implement queues using stack.
+Done a LL question:leetocde 25
+chai aur code date and time javascript.
