@@ -13,3 +13,9 @@ solution:https://leetcode.com/problems/largest-odd-number-in-string/description/
 leetode 20:
 solution: https://leetcode.com/problems/valid-parentheses/description/
 complete arrays in js from chai aur code 
+
+Day-3(13/may/2026)
+learn infix to prefix ,prefix to infix,postfix to prefix,postfix to infix,prefix to postfix,postfix to prefix
+in stack and queue from striver
+leetcode 14
+complete objects in js from chai aur code
