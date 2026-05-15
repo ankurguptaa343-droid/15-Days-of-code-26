@@ -18,4 +18,12 @@ Day-3(13/may/2026)
 learn infix to prefix ,prefix to infix,postfix to prefix,postfix to infix,prefix to postfix,postfix to prefix
 in stack and queue from striver
 leetcode 14
+solution: https://leetcode.com/problems/longest-common-prefix/description/
 complete objects in js from chai aur code
+
+Day-4(14/may/2026)
+ leetcode 61
+ solution: https://leetcode.com/problems/rotate-list/description/
+ leetcode: 796
+ solution: https://leetcode.com/problems/rotate-string/description/
+ watched a lec of object in js
