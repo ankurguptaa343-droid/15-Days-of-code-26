@@ -27,3 +27,12 @@ Day-4(14/may/2026)
  leetcode: 796
  solution: https://leetcode.com/problems/rotate-string/description/
  watched a lec of object in js
+
+ Day-5(15/may/2026)
+Took a short break because I was out travelling. Missed DSA for 2 days, but now back on track. Consistency is about coming back stronger 💻
+
+Day-6(16/may/2026)
+ a short break because I was out travelling. Missed DSA for 2 days, but now back on track. Consistency is about coming back stronger 💻
+
+ Day-7(17/may/2026)
+ 
