@@ -35,4 +35,7 @@ Day-6(16/may/2026)
  a short break because I was out travelling. Missed DSA for 2 days, but now back on track. Consistency is about coming back stronger 💻
 
  Day-7(17/may/2026)
+ learn function  with objects in js
+ done a problem next greater element 
+ done a problem implement min stack
  
