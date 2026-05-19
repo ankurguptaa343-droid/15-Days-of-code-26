@@ -39,3 +39,8 @@ Day-6(16/may/2026)
  done a problem next greater element 
  done a problem implement min stack
  
+ Day-8(18/may/2026)
+ Done next smaller element
+ number of greater element to the right from striver 
+ Learn functions and scope in jS
+ from chai aur code
