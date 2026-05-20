@@ -44,3 +44,7 @@ Day-6(16/may/2026)
  number of greater element to the right from striver 
  Learn functions and scope in jS
  from chai aur code
+
+ Day-9(19/may/2026)
+ leetcode: https://leetcode.com/problems/sum-of-subarray-minimums/description/
+ leetcode:  https://leetcode.com/problems/single-number/description/
