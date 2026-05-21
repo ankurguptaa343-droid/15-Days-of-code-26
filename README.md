@@ -48,3 +48,10 @@ Day-6(16/may/2026)
  Day-9(19/may/2026)
  leetcode: https://leetcode.com/problems/sum-of-subarray-minimums/description/
  leetcode:  https://leetcode.com/problems/single-number/description/
+
+ Day-10(20/may/2026)
+ leetcode: https://leetcode.com/problems/trapping-rain-water/
+ solution:https://leetcode.com/problems/trapping-rain-water/post-solution?submissionId=2008794500
+ leetcode: https://leetcode.com/problems/max-consecutive-ones/
+ solution: https://leetcode.com/problems/max-consecutive-ones/post-solution/?submissionId=2009230767
+ revise sorting
