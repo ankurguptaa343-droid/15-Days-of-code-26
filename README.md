@@ -55,3 +55,13 @@ Day-6(16/may/2026)
  leetcode: https://leetcode.com/problems/max-consecutive-ones/
  solution: https://leetcode.com/problems/max-consecutive-ones/post-solution/?submissionId=2009230767
  revise sorting
+
+ Day-11(21/may/2026)
+leetcode : https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+solution: https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2009609163
+leetcode: https://leetcode.com/problems/asteroid-collision/description/
+solution: https://leetcode.com/problems/asteroid-collision/submissions/2010125232
+Completed part 1 of js from chai aur code
+Learn control flow and all loops in js
+
+
