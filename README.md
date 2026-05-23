@@ -64,4 +64,10 @@ solution: https://leetcode.com/problems/asteroid-collision/submissions/201012523
 Completed part 1 of js from chai aur code
 Learn control flow and all loops in js
 
+Day-12(22/may/2026)
+leetcode: https://leetcode.com/problems/majority-element/description/
+solution: https://leetcode.com/problems/majority-element/submissions/2010520320
+leetcode: https://leetcode.com/problems/sort-colors/description/
+solution:https://leetcode.com/problems/sort-colors/post-solution/?submissionId=2010670188
 
+started learning dom in js from chai aur code 
