@@ -71,3 +71,17 @@ leetcode: https://leetcode.com/problems/sort-colors/description/
 solution:https://leetcode.com/problems/sort-colors/post-solution/?submissionId=2010670188
 
 started learning dom in js from chai aur code 
+
+Day-13(23/may/2026)
+leetcode: https://leetcode.com/problems/sum-of-subarray-ranges/description/
+solution: https://leetcode.com/problems/sum-of-subarray-ranges/submissions/2011028701
+leetcode:https://leetcode.com/problems/remove-k-digits/description/
+solution: https://leetcode.com/problems/remove-k-digits/submissions/2011517279
+learn about dom methods in js
+
+
+Day-14(24/may/2026)
+Attempted a LeetCode contest (was able to solve only 1 problem, and I was very close to solving the 2nd one but made a one-minute mistake).
+Analyse other question
+leetcode: https://leetcode.com/problems/largest-rectangle-in-histogram/description/
+ learn js
