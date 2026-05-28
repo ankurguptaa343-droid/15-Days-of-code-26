@@ -93,6 +93,6 @@ leetcode: [Q-link](https://leetcode.com/problems/maximal-rectangle/description/)
  <br>
  Building Basic project in js from chai aur code. <br>
  leetcode: [Q-link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/). <br>
- solution:[sol-link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1902056064). <br>
+ solution:[sol-link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2015263388). <br>
 
 
