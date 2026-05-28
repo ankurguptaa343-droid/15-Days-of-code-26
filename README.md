@@ -4,29 +4,28 @@ Learn basic of stack and queues from striver<br>
 Implment stack using array and ll<br>
 Implment queues using array and ll.<br>
 Implement stack using queues,implement queues using stack.<br>  
-Done a LL question:leetocde 25.<br>
 chai aur code date and time javascript.<br>  
 
 Day-2(12/may/2026). <br>
 leetcode 1903:[Q-link](https://leetcode.com/problems/largest-odd-number-in-string/description/). <br>
-solution:[sol-link](https://leetcode.com/problems/largest-odd-number-in-string/description/). <br>
+solution:[sol-link](https://leetcode.com/problems/largest-odd-number-in-string/submissions/2001357443). <br>
 leetode 20:[Q-link](https://leetcode.com/problems/valid-parentheses/description/). <br>
-solution:[sol-link](https://leetcode.com/problems/valid-parentheses/description/). <br>
+solution:[sol-link](https://leetcode.com/problems/valid-parentheses/submissions/2001149513). <br>
 complete arrays in js from chai aur code. <br>
 
 
 Day-3(13/may/2026). <br>
 learn infix to prefix ,prefix to infix,postfix to prefix,postfix to infix,prefix to postfix,postfix to prefix. <br>
 in stack and queue from striver. <br>
-leetcode 14:[Q-link](https://leetcode.com/problems/valid-parentheses/description/). <br>
-solution: [sol-link](https://leetcode.com/problems/longest-common-prefix/description/). <br>
+leetcode 14:[Q-link](https://leetcode.com/problems/longest-common-prefix/description/). <br>
+solution: [sol-link](https://leetcode.com/problems/longest-common-prefix/submissions/2002640664). <br>
 complete objects in js from chai aur code. <br>
 
 Day-4(14/may/2026). <br>
  leetcode 61:[Q-link](https://leetcode.com/problems/rotate-list/description/). <br>
- solution: [sol-link](https://leetcode.com/problems/rotate-list/description/). <br>
- leetcode: 796. <br>
- solution: [sol-link](https://leetcode.com/problems/rotate-string/description/). <br>
+ solution: [sol-link](https://leetcode.com/problems/rotate-list/submissions/2002617353). <br>
+ leetcode: 796.[Q-link](https://leetcode.com/problems/rotate-string/description/) <br>
+ solution: [sol-link](https://leetcode.com/problems/rotate-string/post-solution/?submissionId=2002669434). <br>
  watched a lec of object in js. <br>
 
  Day-5(15/may/2026)<br>
@@ -37,18 +36,20 @@ Day-6(16/may/2026)<br>
 
  Day-7(17/may/2026). <br>
  learn function  with objects in js  <br>   
- done a problem next greater element   <br>
+ done a problem next greater element [Q-link](https://leetcode.com/problems/next-greater-element-i/description/)  <br>
+ solution: [sol-link](https://leetcode.com/problems/next-greater-element-i/submissions/2006955021)
 
  
  Day-8(18/may/2026)<br>
  Done next smaller element. <br>
- number of greater element to the right from striver   <br>
+ number of greater element to the right from striver[Q-link](https://leetcode.com/problems/next-greater-element-ii/description/)<br>
+ solution:[sol-link](https://leetcode.com/problems/next-greater-element-ii/submissions/2007007090)<br>
  Learn functions and scope in jS. <br>
  from chai aur code   <br>
 
  Day-9(19/may/2026). <br>
  leetcode: [Q-link](https://leetcode.com/problems/sum-of-subarray-minimums/description/)<br>
- leetcode:  [sol-link](https://leetcode.com/problems/single-number/description/)<br>
+ leetcode:  [sol-link](https://leetcode.com/problems/sum-of-subarray-minimums/submissions/2010555786)<br>
 
  Day-10(20/may/2026). <br>
  leetcode: [Q-link](https://leetcode.com/problems/trapping-rain-water/). <br>
