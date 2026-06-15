@@ -97,9 +97,9 @@ leetcode: [Q-link](https://leetcode.com/problems/maximal-rectangle/description/)
 
 
 Day-1(15/june/2026)  
-Leetcode :[Q-link](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)
-solution: [solution](https://leetcode.com/problems/count-number-of-nice-subarrays/submissions/2033729268)
-Leetcode Daily task:[Q-link](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/?envType=daily-question&envId=2026-06-15)
-solution:[solution](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/2033391417)
+Leetcode :[Q-link](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)    
+solution: [solution](https://leetcode.com/problems/count-number-of-nice-subarrays/submissions/2033729268)     
+Leetcode Daily task:[Q-link](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/?envType=daily-question&envId=2026-06-15)     
+solution:[solution](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/2033391417)     
 Leetcode:[Q-link]()
 
