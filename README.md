@@ -100,6 +100,15 @@ Day-1(15/june/2026)
 Leetcode :[Q-link](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)    
 solution: [solution](https://leetcode.com/problems/count-number-of-nice-subarrays/submissions/2033729268)     
 Leetcode Daily task:[Q-link](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/?envType=daily-question&envId=2026-06-15)     
-solution:[solution](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/2033391417)     
-Leetcode:[Q-link]()
+solution:[solution](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/2033391417)        
+Leetcode:[Q-link](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)   
+solution:[solution](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/submissions/2034150001/)     
+GFG :[Q-link](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1)  (Longest Substring with K Uniques)   
+Javascript Async and API  
+
+Day-2(16/june/2026)  
+
+  
+
+
 
