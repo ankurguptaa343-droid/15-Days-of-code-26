@@ -106,7 +106,18 @@ solution:[solution](https://leetcode.com/problems/number-of-substrings-containin
 GFG :[Q-link](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1)  (Longest Substring with K Uniques)   
 Javascript Async and API  
 
-Day-2(16/june/2026)  
+Day-2(16/june/2026)     
+Leetcode Daily task:[Q-link](https://leetcode.com/problems/process-string-with-special-operations-i/?envType=daily-question&envId=2026-06-16)   
+solution:[soltuion](https://leetcode.com/problems/process-string-with-special-operations-i/submissions/2034672569)    
+Leetcode:[Q-link](https://leetcode.com/problems/longest-repeating-character-replacement/)   
+solution:[solution](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/2035387674)   
+Leetcode:[Q-link](https://leetcode.com/problems/minimum-window-substring/)
+solution:[solution](https://leetcode.com/problems/minimum-window-substring/submissions/2034857052)   
+GFG(minimum window subsequence):[Q-link](https://www.geeksforgeeks.org/problems/minimum-window-subsequence/1)  
+Done 3 basic projects for understanding setTimeout ,SetInterval in JS   
+
+Day-3(17/june/2026)  
+
 
   
 
