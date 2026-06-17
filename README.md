@@ -117,7 +117,12 @@ GFG(minimum window subsequence):[Q-link](https://www.geeksforgeeks.org/problems/
 Done 3 basic projects for understanding setTimeout ,SetInterval in JS   
 
 Day-3(17/june/2026)  
-
+Leetcode:[Q-link](https://leetcode.com/problems/assign-cookies/)    
+solution:[solution](https://leetcode.com/problems/assign-cookies/submissions/2035434952)    
+Leetcode:[Q-link](https://leetcode.com/problems/lemonade-change/description/)   
+solution:[solution](https://leetcode.com/problems/lemonade-change/submissions/2036689780)    
+Leetcode daily challenge(process string with operation 2)   
+js lec 39   done    
 
   
 
