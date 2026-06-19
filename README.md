@@ -124,6 +124,15 @@ solution:[solution](https://leetcode.com/problems/lemonade-change/submissions/20
 Leetcode daily challenge(process string with operation 2)   
 js lec 39   done    
 
+Day-4(18/june/2026)   
+Leetcode Daily challenge:[Q-link](https://leetcode.com/problems/angle-between-hands-of-a-clock/description/?envType=daily-question&envId=2026-06-18)    Solution:[solution](https://leetcode.com/problems/angle-between-hands-of-a-clock/submissions/2037899479)     
+Leetcode:Fractional Knapsack     
+Leetcode:valid parenthesis checker[Q-link](https://leetcode.com/problems/valid-parenthesis-string/description/)     
+solution:[soluiotn](https://leetcode.com/problems/valid-parenthesis-string/submissions/2037486106)    
+promises ,fetch in js  
+
+Day-5(19/june/2026)   
+
   
 
 
