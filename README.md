@@ -101,19 +101,17 @@ Leetcode :[Q-link](https://leetcode.com/problems/count-number-of-nice-subarrays/
 solution: [solution](https://leetcode.com/problems/count-number-of-nice-subarrays/submissions/2033729268)     
 Leetcode Daily task:[Q-link](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/?envType=daily-question&envId=2026-06-15)     
 solution:[solution](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/2033391417)        
-Leetcode:[Q-link](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)   
-solution:[solution](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/submissions/2034150001/)     
+   
 GFG :[Q-link](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1)  (Longest Substring with K Uniques)   
 Javascript Async and API  
 
 Day-2(16/june/2026)     
 Leetcode Daily task:[Q-link](https://leetcode.com/problems/process-string-with-special-operations-i/?envType=daily-question&envId=2026-06-16)   
 solution:[soltuion](https://leetcode.com/problems/process-string-with-special-operations-i/submissions/2034672569)    
-Leetcode:[Q-link](https://leetcode.com/problems/longest-repeating-character-replacement/)   
-solution:[solution](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/2035387674)   
+ 
 Leetcode:[Q-link](https://leetcode.com/problems/minimum-window-substring/)
 solution:[solution](https://leetcode.com/problems/minimum-window-substring/submissions/2034857052)   
-GFG(minimum window subsequence):[Q-link](https://www.geeksforgeeks.org/problems/minimum-window-subsequence/1)  
+
 Done 3 basic projects for understanding setTimeout ,SetInterval in JS   
 
 Day-3(17/june/2026)  
@@ -131,7 +129,33 @@ Leetcode:valid parenthesis checker[Q-link](https://leetcode.com/problems/valid-p
 solution:[soluiotn](https://leetcode.com/problems/valid-parenthesis-string/submissions/2037486106)    
 promises ,fetch in js  
 
-Day-5(19/june/2026)   
+Day-5(19/june/2026) 
+GFG(minimum window subsequence):[Q-link](https://www.geeksforgeeks.org/problems/minimum-window-subsequence/1)    
+javascript continue
+
+Day-6(20/june/2026)  
+Leetcode:[Q-link](https://leetcode.com/problems/longest-repeating-character-replacement/)   
+solution:[solution](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/2035387674)    
+Daily problem leetcode  
+javascript promises   
+
+Day=7 (21/june/2026)   
+Leetcode:[Q-link](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)   
+solution:[solution](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/submissions/2034150001/)  
+fetch in javascript  
+Daily challenge 
+
+Day-8 
+
+  Day-9 
+
+  Day-10 
+
+
+  Day-11 
+  
+
+
 
   
 
